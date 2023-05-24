@@ -46,6 +46,6 @@ Confirm that all the services are running.
  ```
 
 ### Access Zabbix in a Web Browser
-1. Open a web browser and go to http://localhost:8080.
+1. Open a web browser and go to http://localhost or http://127.0.0.1 
 2. Log in using the default username Admin and password zabbix.
 

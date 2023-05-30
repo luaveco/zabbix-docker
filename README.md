@@ -49,3 +49,4 @@ Confirm that all the services are running.
 1. Open a web browser and go to http://localhost or http://127.0.0.1 
 2. Log in using the default username Admin and password zabbix.
 
+When running the compose for the first time, it may take a minute or two before the database is initialized. If you get a database error, please try again in the next minute or two before the login screen appears. 

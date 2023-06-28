@@ -25,12 +25,16 @@ Check if Docker is in a running state by executing the command:
 Download this archive, you can use download link above, or clone the repo:
 
  ```console
-    git clone git@github.com/luaveco/zabbix-docker](https://github.com/luaveco/zabbix-docker.git
+    git clone git@github.com:luaveco/zabbix-docker.git
+ ```
+or 
+ ```console
+    git clone https://github.com/luaveco/zabbix-docker.git
  ```
 
 ### Build and Launch Zabbix Containers
 
-Download all necessary files by executing the command:
+ownload all necessary files by executing the command:
 
  ```console
 	docker-compose up -d

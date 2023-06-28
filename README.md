@@ -6,7 +6,7 @@ This project provides a Docker-based installation of the Zabbix monitoring syste
 
 ### Linux Installation
 
-Choose you platform and install Docker on your server: https://docs.docker.com/engine/install/ 
+Choose your platform and install Docker on your server: https://docs.docker.com/engine/install/ 
 
 ### Windows/localhost Installation (testing and experimental purposes)
 
@@ -25,7 +25,7 @@ Check if Docker is in a running state by executing the command:
 Download this archive, you can use download link above, or clone the repo:
 
  ```console
-    git clone git@github.com/luaveco/zabbix-docker
+    git clone git@github.com/luaveco/zabbix-docker](https://github.com/luaveco/zabbix-docker.git
  ```
 
 ### Build and Launch Zabbix Containers
